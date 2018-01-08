@@ -1,6 +1,8 @@
 # chinese_entity_linking
 基于CN-DBpedia的短文本实体链接测试数据   
-CN-DBpedia：http://kw.fudan.edu.cn/cndbpedia   
+CN-DBpedia：http://kw.fudan.edu.cn/cndbpedia  
+知识工厂实体链接服务： http://shuyantech.com/api/entitylinking/  
+知识工厂实体链接api：http://shuyantech.com/api/entitylinking/cutsegment  
   
 数据集的文本由1037条人工标注的短文本语料组成。其中大约70%来自新闻语料，包括新闻标题和内容，比如“英超-桑切斯4分钟内梅开二度阿森纳3-2五轮不败”；大约20%来自人工构建的基于歧义实体的语料，比如“红楼梦的演员有哪些”；大约10%来自问答语料中的简单问句，比如说“岳阳有哪些旅游景点”。   
   
