@@ -10,6 +10,6 @@ CN-DBpedia：http://kw.fudan.edu.cn/cndbpedia
   
 目前，我们的实体识别与链接技术在该数据集上能达到很好的效果。其中实体识别部分的准确率为91.0%，召回率为89.4%，F1分数为90.2%；实体链接部分的准确率为94.5%（实体识别后单独计算的实体链接准确率）；针对实体识别与链接任务的准确率为86.1%，召回率为84.5%，F1分数为85.3%。   
 
-If you want to cite our work, please use this publication:
 
+If you want to cite our work, please use this publication:
 Bo Xu, Yong Xu, Jiaqing Liang, Chenhao Xie, Bin Liang, Wanyun Cui, and Yanghua Xiao. CN-DBpedia: A Never-Ending Chinese Knowledge Extraction System. In International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems, pp. 428-438. Springer, Cham, 2017.
