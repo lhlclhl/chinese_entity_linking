@@ -9,3 +9,6 @@ CN-DBpedia：http://kw.fudan.edu.cn/cndbpedia
 数据标注的格式如下。每个样本的标注格式包括3个部分：语料，mention和实体，用制表符‘\t’分隔；其中mention为语料中指代实体的子段，多个用“|||”分隔；实体部分为各mention对应的实体，多个用“|||”分隔，数量应与mention一致。比如，“李娜拿过澳网冠军吗\t李娜|||澳网\t李娜（中国女子网球名将）|||澳大利亚网球公开赛”。   
   
 目前，我们的实体识别与链接技术在该数据集上能达到很好的效果。其中实体识别部分的准确率为91.0%，召回率为89.4%，F1分数为90.2%；实体链接部分的准确率为94.5%（实体识别后单独计算的实体链接准确率）；针对实体识别与链接任务的准确率为86.1%，召回率为84.5%，F1分数为85.3%。   
+
+If you want to cite our work, please use this publication:
+Bo Xu, Yong Xu, Jiaqing Liang, Chenhao Xie, Bin Liang, Wanyun Cui, and Yanghua Xiao. CN-DBpedia: A Never-Ending Chinese Knowledge Extraction System. In International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems, pp. 428-438. Springer, Cham, 2017.
